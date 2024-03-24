@@ -12,5 +12,19 @@
         "AD:25:5E:AF:A0:F9:E2:0B:A5:BC:54:7F:A0:62:A6:59:BB:D8:E1:4F:7D:A3:C6:E8:7E:32:EA:02:CC:9C:59:76"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.cyvx.android.dev",
+      "sha256_cert_fingerprints": [
+        "BB:DD:11:35:FC:78:1C:C9:57:97:4C:3B:10:2D:8C:14:81:C7:12:50:B8:05:01:6B:BC:6B:94:BE:E9:CC:7F:32",
+        "26:74:A1:25:C3:04:3A:11:7B:53:A9:C8:A9:F0:B9:7A:71:1E:A4:B9:6B:FB:CF:75:86:50:F7:27:C4:F2:FE:1D",
+        "AD:25:5E:AF:A0:F9:E2:0B:A5:BC:54:7F:A0:62:A6:59:BB:D8:E1:4F:7D:A3:C6:E8:7E:32:EA:02:CC:9C:59:76"
+      ]
+    }
   }
 ]
